@@ -1,6 +1,7 @@
 """Copy entry.txt to the output directory for the make.fun entry.
 
 The entry is fortune-cookie wisdom for a developer, at most 120 characters.
+It is written for a tired senior engineer, so the joke lands on debugging.
 """
 import os
 import shutil
