@@ -4,6 +4,7 @@ The entry is fortune-cookie wisdom for a developer, at most 120 characters.
 It is written for a tired senior engineer, so the joke lands on debugging.
 Delete the code, call it refactoring, and let the lucky numbers do the rest.
 Zero, one, and 404 — the only numbers a developer truly trusts.
+And the bug, once deleted, never comes back to haunt the deploy.
 """
 import os
 import shutil
