@@ -1,4 +1,7 @@
-"""Copy entry.txt to the output directory for the make.fun entry."""
+"""Copy entry.txt to the output directory for the make.fun entry.
+
+The entry is fortune-cookie wisdom for a developer, at most 120 characters.
+"""
 import os
 import shutil
 
